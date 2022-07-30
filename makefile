@@ -1,3 +1,9 @@
-apt get update
-$PATH
-mv file.txt /home 
+
+
+update: 
+   apt get update
+variable: 
+     $PATH
+
+move_file:
+    mv file.txt /home 
