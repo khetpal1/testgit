@@ -1,4 +1,6 @@
 
+ci: update variable move_file
+  
 
 update: 
    apt get update
